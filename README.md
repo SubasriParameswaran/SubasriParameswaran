@@ -2,7 +2,7 @@
 
 **Supply Chain × Data Science × ML/AI.** I turn messy operational data into decisions that move inventory, reduce waste, and improve service levels.
 
-- 🎯 **Focus**: demand planning & forecasting, inventory optimization, vendor performance analytics, AI workflows.
+- 🎯 **Focus**: Demand planning & Forecasting, Inventory optimization, Vendor performance analytics, AI workflows.
 - 🧰 **Stack**: Python (pandas, scikit‑learn), SQL, Power BI, Streamlit, GitHub Actions, n8n.
 - 🏅 **Certs**: Microsoft **PL‑300** (passed), IBM **AI Engineering** (in progress).
 - 🌎 **Location**: Canada • Open to hybrid/remote roles and consulting.
