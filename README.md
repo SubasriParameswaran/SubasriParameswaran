@@ -10,8 +10,11 @@
 
 ## 🧩 Featured Projects
 - **Retail Demand Forecasting** — end‑to‑end model with feature engineering, ML, and a Streamlit demo app.
-- **Inventory Optimization (EOQ + ROP)** — a tiny optimizer for replenishment policy with uncertainty.
-- **Vendor Performance Dashboard (Power BI)** — On‑Time/ In‑Full, lead time reliability, and Pareto insights.
+  Repo: [Portfolio/demand-forecasting-retail](https://github.com/SubasriParameswaran/Portfolio/tree/main/demand-forecasting-retail)
+- **Inventory Optimization (EOQ + ROP)** — a tiny optimizer for replenishment policy with uncertainty
+  Repo: [Portfolio/inventory-optimization-eoq](https://github.com/SubasriParameswaran/Portfolio/tree/main/inventory-optimization-eoq)
+- **Vendor Performance Dashboard (Power BI)** — On‑Time/ In‑Full, lead time reliability, and Pareto insights
+   Repo: [Portfolio/powerbi-vendor-performance](https://github.com/SubasriParameswaran/Portfolio/tree/main/powerbi-vendor-performance)
 
 ## 🔬 What I do
 - Translate business questions into experiments and KPIs.
