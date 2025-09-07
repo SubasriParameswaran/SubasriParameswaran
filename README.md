@@ -1,4 +1,4 @@
-# Hi, I'm Suba Parameswaran 👋
+# Hi, I'm Subasri Parameswaran 👋
 
 **Supply Chain × Data Science × ML/AI.** I turn messy operational data into decisions that move inventory, reduce waste, and improve service levels.
 
